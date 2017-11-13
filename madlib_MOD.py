@@ -1,3 +1,6 @@
+import time
+
+
 ### MAD LIBS ###
 ### Ask Questions Here ###
 print("Write an adjective.")
@@ -57,4 +60,7 @@ print("Ooh, " + adj4 + " what you made " + name2 + " do")
 print("What you " + adj5 + " " + name3 + " do")
 print(adj6 + " what you just mad " + name4 + " do, look what you just made " + name5 +  " do")
 
+
+
+time.sleep(100)
     
